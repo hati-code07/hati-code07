@@ -1,17 +1,55 @@
-<div id="header" align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE2NzY1MTcsIm5iZiI6MTc2MTY3NjIxNywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NDAtZGFkNWQwMjUtOTFjMy00M2I5LTlhM2QtMWM5MjY2Zjc3Y2I3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI4VDE4MzAxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyYjE4ZThhNDFmNWVmOGYyOWRmYTEzNTQwYTc1MTBlMzQ1ZGNiZmE2M2E3YzI4ODgwNDI3MWQ0NTljYmViMjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.E8GHrsc0UKjg81huzCIQ6zoZkRV9erCLOut0XUOwxRI" width="100"/>
+<!-- Лого или анимированный баннер (опционально) -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F76E&center=true&vCenter=true&width=435&lines=Привет%2C+Я+Hati!;Люблю+творить+и+создавать;Добро+пожаловать+в+мой+профиль!" alt="Typing SVG" />
 </div>
-<!--
-**hati-code07/hati-code07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Обо мне
+
+<!-- Краткое и яркое описание -->
+Я Асанова Хатидже студентка второго курса Крымского инженерно-педагогического университета, которая горит своим делом. Обожаю превращать сложные задачи в элегантные и простые решения.
+- 💡 Постоянно учусь и исследую новые технологии.
+- 🎯 Моя цель: создавать продукты, которые меняют мир к лучшему.
+- 🌱 Сейчас углубляюсь в веб-разработку и алгоритмы.
+- ✨ Верю, что код — это искусство, а программирование — суперсила.
+
+---
+### 📫 Давайте создавать что-то крутое вместе!
+
+Не стесняйтесь писать мне, если хотите обсудить проект, предложить collaboration или просто поболтать о технологиях!
+
+<div align="center">
+  <a href="https://t.me/hatiii_07" target="_blank">
+    <img src="https://media.giphy.com/media/j4q4h9u3QMpQhFhkLY/giphy.gif" width="100" height="100" alt="Telegram" style="border-radius: 50%;"/>
+    <br>
+    <strong>💬 Написать в Telegram</strong>
+  </a>
+</div>
+
+<br>
+___
+
+### 🛠️ Сейчас изучаю
+
+<!-- Иконки можно взять с https://shields.io/ или https://simpleicons.org/ -->
+
+**💻 Backend & Frontend:**
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**☁️ Базы данных и DevOps:**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+
+
